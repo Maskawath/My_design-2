@@ -1,3 +1,3 @@
 # My_design-2
 
-![](my.png)
+![](my.jpg)
